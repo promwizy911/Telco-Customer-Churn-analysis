@@ -23,6 +23,7 @@ Metrics:
 RT-AUC - 66%
 
 Recommendations
+
 1.Targeted Retention for Single-Household, Low-Commitment Customers (Highest Priority)
 2.  Introduce “Commitment-Light” Pricing Options
 3. Operationalize Price Sensitivity as an Early-Warning Signal
