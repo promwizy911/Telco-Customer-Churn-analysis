@@ -19,7 +19,7 @@ This customers hardly stay with company beyond 10-18 months.
 Model Performance
 AdaBoost model (selected)
 
-Metrics
+Metrics:
 RT-AUC - 66%
 
 Recommendations
@@ -30,5 +30,5 @@ Recommendations
 
 
 
-Tools
+Tools:
 Python, Pandas, Scikit-learn, Matplotlib, Seaborn
